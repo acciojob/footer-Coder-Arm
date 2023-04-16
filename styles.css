@@ -2,9 +2,18 @@
 .content{
 	background-color: rgb(4,7,32);
 	color: whitesmoke;
+	padding: 10px 25px;
 }
-.logo-name{
-	font-size: 30px;
+.logo_name{
+	font-size: 50px;
+}
+.media-icons a{
+	margin: 5px
+}
+.top{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 img{
 	width: 40px;
